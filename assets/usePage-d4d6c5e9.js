@@ -1,0 +1,1 @@
+import{r as e}from"./index-0d68e032.js";const r=()=>{e.useEffect(()=>(document.body.classList.add("custom-header-relative"),()=>{document.body.classList.remove("custom-header-relative")}),[])};export{r as u};
